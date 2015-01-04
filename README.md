@@ -1,4 +1,6 @@
 simpleoncall-docs
 =================
 
-Documentation for SimpleOnCall
+Documentation source for SimpleOnCall
+
+http://simpleoncall.readthedocs.org
